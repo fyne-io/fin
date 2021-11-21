@@ -1,5 +1,7 @@
 # Fin, the Fyne Login Manager
 
+> This repository has moved to https://github.com/FyshOS/fin
+
 A minimal but good-looking login manager for Linux/Unix.
 The current boot scripts support only systemd.
 
